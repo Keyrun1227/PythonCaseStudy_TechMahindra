@@ -13,7 +13,7 @@ Welcome to the **Bank Application**! This is a simple yet comprehensive web appl
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🚀 Features
 - **Create Account**: 📑 Create a new bank account by entering the account number, account holder's name, and initial balance.
