@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #4CAF50; /* Primary color for headings */
+}
+
+.card {
+    border-radius: 15px; /* Rounded corners for cards */
+}
+
+.navbar {
+    border-bottom: 2px solid #4CAF50; /* Bottom border for navbar */
+}
+
+.nav-link {
+    color: white !important; /* Override link color */
+}
+
+.alert {
+    margin-top: 20px; /* Space for flash messages */
+}

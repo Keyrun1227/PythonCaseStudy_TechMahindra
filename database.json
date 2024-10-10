@@ -1,0 +1,21 @@
+{
+    "12345678": {
+        "name": "Sai Kiran",
+        "balance": 34999.0,
+        "transactions": [
+            "Withdrawn: 5000.0",
+            "Received \u20b95000.0 from 12345679",
+            "Withdrawn: 1.0",
+            "Received \u20b910000.0 from 12345679"
+        ]
+    },
+    "12345679": {
+        "name": "Madhan",
+        "balance": 0.0,
+        "transactions": [
+            "Deposited: 5000.0",
+            "Transferred \u20b95000.0 to 12345678",
+            "Transferred \u20b910000.0 to 12345678"
+        ]
+    }
+}
